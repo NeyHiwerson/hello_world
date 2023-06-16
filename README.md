@@ -12,6 +12,3 @@ salvamos local git commit
 salvamos na nuvem git push
 
 Obrigado por acompanhar esse repositório.
-
-teste 2 teste
-
